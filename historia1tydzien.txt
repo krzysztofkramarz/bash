@@ -1,0 +1,460 @@
+    1  03/04/19 15:32:44  history
+    2  03/04/19 15:32:52  source ~./bashrc
+    3  03/04/19 15:33:00  source ~/.bashrc
+    4  03/04/19 15:57:49  strfile -c % oo
+    5  03/04/19 15:57:55  ls
+    6  03/04/19 15:58:13  strfile -c % oop
+    7  03/04/19 15:58:33  fortune oop
+    8  03/04/19 15:58:46  sudo apt install fortune-mod
+    9  03/04/19 15:58:54  fortune oop
+   10  03/04/19 16:00:05  sudo apt-get --purge remove fortuna
+   11  03/04/19 16:00:18  sudo apt --purge remove fortuna
+   12  03/04/19 16:00:41  vimtutor
+   13  03/04/19 16:02:04  fortuna
+   14  03/04/19 16:02:40  vimgnome
+   15  03/04/19 16:02:57  apt get install vim-gnome
+   16  03/04/19 16:03:08  apt -get  install vim-gnome
+   17  03/04/19 16:03:13  apt   install vim-gnome
+   18  03/04/19 16:03:29  apt-get install vim-gnom
+   19  03/04/19 16:03:33  apt-get install vim-gnome
+   20  03/04/19 16:03:36  apt-get install vim-gnom
+   21  03/04/19 16:03:42  sudo apt-get install vim-gnom
+   22  03/04/19 16:03:56  sudo apt-get install vim-gnome
+   23  03/04/19 16:04:10  vim-gnome
+   24  03/04/19 16:04:17  gnome
+   25  03/04/19 16:04:20  gnom
+   26  03/05/19 07:48:16  sudo apt install terminator
+   27  03/05/19 08:01:48  ./variables.sh 
+   28  03/05/19 08:50:57  pwd
+   29  03/05/19 11:14:09  git init
+   30  03/05/19 11:14:13  git add .
+   31  03/05/19 11:14:15  git status
+   32  03/05/19 11:14:27  git commit -m 'pierwsza wersja'
+   33  03/05/19 11:14:57  git config --global user.mail krzysztofkramarz@tlen.pl
+   34  03/05/19 11:15:08  git config --global user.name krzysztof_kramarz
+   35  03/05/19 11:15:12  git commit -m 'pierwsza wersja'
+   36  03/05/19 11:15:38  git config --global user.mail "krzysztofkramarz@tlen.pl"
+   37  03/05/19 11:15:40  git commit -m 'pierwsza wersja'
+   38  03/05/19 11:16:11  git config --global user.mail "krzysztof_kramarz@epam.com"
+   39  03/05/19 11:16:13  git commit -m 'pierwsza wersja'
+   40  03/05/19 11:16:17  git status
+   41  03/05/19 11:16:21  git commit -m 'pierwsza wersja'
+   42  03/05/19 13:10:15  man -k signal
+   43  03/05/19 13:10:45  man --section 7 signal
+   44  03/05/19 13:13:27  man --section 7 signal-safety
+   45  03/05/19 13:13:59  man --section 8 killall5
+   46  03/05/19 13:14:36  man kill
+   47  03/05/19 13:15:45  man echo
+   48  03/05/19 13:15:56  which echo
+   49  03/05/19 13:19:33  man -k signal
+   50  03/05/19 13:19:49  signal
+   51  03/05/19 13:21:19  echo PATCH
+   52  03/05/19 13:21:23  echo $PATCH
+   53  03/05/19 13:21:28  echo $PAth
+   54  03/05/19 13:21:32  echo $PATH
+   55  03/05/19 13:21:38  echo '$PATH'
+   56  03/05/19 13:23:32  echo SCIEZKA
+   57  03/05/19 13:23:36  echo $PATH
+   58  03/05/19 13:23:38  echo '$PATH'
+   59  03/05/19 15:08:10  more 
+   60  03/05/19 15:08:14  ls
+   61  03/05/19 15:08:21  more Videos/
+   62  03/05/19 15:08:29  tree /
+   63  03/05/19 15:08:40  sudo apt install tree
+   64  03/05/19 15:38:31  fortune
+   65  03/05/19 07:51:05  jshell
+   66  03/06/19 07:37:47  man -k file
+   67  03/06/19 07:37:56  man -k file | grep file
+   68  03/06/19 07:38:05  man -k file | grep "^file"
+   69  03/06/19 07:38:21  man file
+   70  03/06/19 07:39:16  find -name /  .gitignore 
+   71  03/06/19 07:39:26  find -name   .gitignore 
+   72  03/06/19 07:39:43  find -name   .gitconfig 
+   73  03/06/19 07:39:52  ls -halt
+   74  03/06/19 07:41:18  git status
+   75  03/06/19 07:41:28  git commit -m 'pierwsza wersja'
+   76  03/06/19 07:41:34  git add .
+   77  03/06/19 07:41:45  git status
+   78  03/06/19 07:41:52  git commit -m 'druga wersja'
+   79  03/06/19 08:22:34  pwd
+   80  03/06/19 08:46:51  mkdir wojna
+   81  03/06/19 09:01:44  fortuna
+   82  03/06/19 09:01:51  fortune
+   83  03/06/19 09:02:00  ls /usr/share/games/
+   84  03/06/19 09:02:03  ls /usr/share/games/fortunes/
+   85  03/06/19 09:02:14  sudo apt purge fortune
+   86  03/06/19 09:02:32  fortune
+   87  03/06/19 09:02:47  ls /usr/share/games/fortunes/
+   88  03/06/19 09:02:57  sudo apt install fortune-mod
+   89  03/06/19 09:03:02  fortune
+   90  03/06/19 09:03:16  which fortune
+   91  03/06/19 09:03:22  fortune-mod
+   92  03/06/19 09:03:26  man fortune
+   93  03/06/19 09:03:36  dpkg -l 
+   94  03/06/19 09:03:41  dpkg -l | fortune
+   95  03/06/19 09:03:45  dpkg -l | grep fortune
+   96  03/06/19 09:03:59  sudo apt purge fortune-mod
+   97  03/06/19 09:04:07  dpkg -l | grep fortune
+   98  03/06/19 09:04:13  sudo apt purge fortune-min
+   99  03/06/19 09:04:19  sudo apt purge fortunes-min
+  100  03/06/19 09:04:35  ls /usr/share/games/fortunes/
+  101  03/06/19 09:04:39  fortune
+  102  03/06/19 09:04:53  sudo apt install fortune
+  103  03/06/19 09:04:59  fortune
+  104  03/06/19 09:05:04  fortune oop
+  105  03/06/19 09:12:16  fortune
+  106  03/06/19 09:14:46  cd /usr/share/games/
+  107  03/06/19 09:14:47  ls
+  108  03/06/19 09:14:53  cd fortunes/
+  109  03/06/19 09:15:49  pwd
+  110  03/06/19 09:15:58  ls
+  111  03/06/19 09:16:11  strfile -c % rady
+  112  03/06/19 09:16:38  sudo cp rady/rady* /usr/share/games/fortunes/
+  113  03/06/19 09:16:50  sudo cp rady* /usr/share/games/fortunes/
+  114  03/06/19 09:17:00  ls
+  115  03/06/19 09:17:10  pwd
+  116  03/06/19 09:17:26  ls
+  117  03/06/19 09:17:31  sudo cp rady* /usr/share/games/fortunes/
+  118  03/06/19 09:17:39  ls
+  119  03/06/19 09:17:56  fortune rady
+  120  03/06/19 09:18:54  vim ~/.bashrc
+  121  03/06/19 09:19:26  source  ~/.bashrc
+  122  03/06/19 09:31:16  git init
+  123  03/06/19 09:31:20  \git status
+  124  03/06/19 09:31:29  git add .
+  125  03/06/19 09:31:40  git -m 'pierwszy komit'
+  126  03/06/19 09:31:45  git commit -m 'pierwszy komit'
+  127  03/06/19 09:31:48  git status
+  128  03/06/19 12:20:39  vim ~/.bashrc 
+  129  03/06/19 14:21:55  pwd
+  130  03/06/19 14:22:03  ls
+  131  03/06/19 14:22:13  cd Desktop/bash
+  132  03/06/19 14:22:14  ls
+  133  03/06/19 14:22:23  ./notatki.sh
+  134  03/06/19 14:23:35  man -k date
+  135  03/06/19 14:25:19  ./notatki.sh
+  136  03/06/19 14:34:27  touch notatka.txt
+  137  03/06/19 14:34:29  ./notatki.sh
+  138  03/06/19 14:35:26  ls
+  139  03/06/19 14:35:43  vim notatka.TEXT 
+  140  03/06/19 14:36:00  rm notatka.TEXT 
+  141  03/06/19 14:23:49  man date
+  142  03/06/19 14:38:15  pwd
+  143  03/06/19 14:36:24  man cut
+  144  03/06/19 14:38:24  cd /home/krzysztof/Desktop/bash
+  145  03/06/19 14:38:25  pwd
+  146  03/06/19 14:38:27  clear
+  147  03/06/19 14:38:38  ls
+  148  03/06/19 14:38:50  vim notatka.txt 
+  149  03/06/19 14:39:11  cut notatka.txt 
+  150  03/06/19 14:39:19  man cut
+  151  03/06/19 14:40:03  ./notatki.sh
+  152  03/06/19 14:40:22  cat ./notatka.txt 
+  153  03/06/19 14:40:32  cat ./notatka.txt >> se
+  154  03/06/19 14:40:35  cat ./notatka.txt 
+  155  03/06/19 14:43:40  ./notatki.sh
+  156  03/06/19 14:46:29  cat > notatka.txt 
+  157  03/06/19 14:46:54  cd /home/krzysztof/Desktop/bash
+  158  03/06/19 14:47:02  vim notatka.txt 
+  159  03/06/19 14:47:36  ./notatki.sh
+  160  03/06/19 14:53:23  vim notatka.txt 
+  161  03/06/19 14:54:05  less notatka.txt 
+  162  03/06/19 14:55:25  ./notatki.sh
+  163  03/06/19 14:56:12  less notatka.txt 
+  164  03/06/19 14:59:32  ./notatki.sh
+  165  03/06/19 15:03:54  notify-send "Bash powiada, że" $(fortune)
+  166  03/06/19 15:04:18  notify-send "Bash powiada, że" "ładna dziś jest pogoda"
+  167  03/06/19 15:09:17  ./notatki.sh
+  168  03/06/19 15:31:41  ls
+  169  03/06/19 15:32:22  cd ..
+  170  03/06/19 15:32:26  pwd
+  171  03/06/19 15:32:32  git pull
+  172  03/06/19 15:32:36  cd ..
+  173  03/06/19 15:32:39  git pull
+  174  03/06/19 15:55:17  zenity --entry --text "Rowerki"
+  175  03/06/19 15:55:42  zenity --entry --text "Rowerki" > f
+  176  03/06/19 15:55:49  cat f
+  177  03/07/19 07:40:18  ls
+  178  03/07/19 07:40:24  rm notatka.txt 
+  179  03/07/19 07:40:25  ls
+  180  03/07/19 07:40:33  ls -halt
+  181  03/07/19 07:40:38  vim f
+  182  03/07/19 07:40:46  rm f
+  183  03/07/19 07:40:48  rm se
+  184  03/07/19 07:41:01  ls
+  185  03/07/19 07:41:15  touch notatki.txt
+  186  03/07/19 07:41:30  ./notatki.sh
+  187  03/07/19 08:01:15  ret=asa
+  188  03/07/19 08:01:20  echo $ret
+  189  03/07/19 08:01:32  echo $ret >> notatki.txt
+  190  03/07/19 08:01:53  echo asdasd  >> notatki.txt
+  191  03/07/19 08:04:01  echo $ret
+  192  03/07/19 08:04:10  echo $ret >> notatki.txt
+  193  03/07/19 08:04:23  echo $ret > notatki.txt
+  194  03/07/19 08:04:36  echo $ret >> notatki.txt
+  195  03/07/19 08:04:42  echo $ret > notatki.txt
+  196  03/07/19 08:04:58  read $ret > notatki.txt
+  197  03/07/19 08:05:26  read $ret >> notatki.txt
+  198  03/07/19 08:05:45  read ret >> notatki.txt
+  199  03/07/19 08:05:53  read ret > notatki.txt
+  200  03/07/19 08:07:32  ./notatki.sh
+  201  03/07/19 08:10:08  history 
+  202  03/07/19 08:11:35  touch notatki2.sh
+  203  03/07/19 08:20:10  touch maven_str.sh
+  204  03/07/19 08:24:17  ./maven_str.sh
+  205  03/07/19 08:24:29  chmod +x maven_str.sh 
+  206  03/07/19 08:24:31  ./maven_str.sh
+  207  03/07/19 08:29:56  tree
+  208  03/06/19 14:39:23  man cat
+  209  03/07/19 08:31:56  ./maven_str.sh
+  210  03/07/19 08:32:25  tree
+  211  03/07/19 08:37:38  ./maven_str.sh
+  212  03/07/19 08:37:42  tree
+  213  03/07/19 08:37:45  ./maven_str.sh
+  214  03/07/19 08:37:49  tree
+  215  03/07/19 08:58:05  ./maven_str.sh
+  216  03/07/19 08:58:15  tree
+  217  03/07/19 08:58:19  tree project/
+  218  03/07/19 08:58:27  cd pr
+  219  03/07/19 08:58:30  cd project/
+  220  03/07/19 08:58:31  ls
+  221  03/07/19 08:58:39  ./maven_str.sh
+  222  03/07/19 08:58:44  cd ..
+  223  03/07/19 08:58:49  ./maven_str.sh
+  224  03/07/19 09:00:50  tree project/
+  225  03/07/19 09:11:40  ./maven_str.sh
+  226  03/07/19 09:58:22  vim README.md 
+  227  03/07/19 10:00:43  man mv
+  228  03/07/19 10:01:22  ls
+  229  03/07/19 10:01:26  cd ..
+  230  03/07/19 10:01:27  ls
+  231  03/07/19 10:01:56  touch bla
+  232  03/07/19 10:01:57  \ls
+  233  03/07/19 10:02:03  mv bla ~/
+  234  03/07/19 10:02:06  ls
+  235  03/07/19 10:02:08  cd ..
+  236  03/07/19 10:02:08  ls
+  237  03/07/19 10:02:15  cd Desktop/
+  238  03/07/19 10:02:22  mv Kod ~/
+  239  03/07/19 10:02:56  cd ~
+  240  03/07/19 10:02:58  pwe
+  241  03/07/19 10:03:00  pwd
+  242  03/07/19 10:03:04  clear
+  243  03/07/19 10:03:08  ls -halt
+  244  03/07/19 10:03:19  cd Kod/
+  245  03/07/19 10:03:21  ls
+  246  03/07/19 10:03:33  clear
+  247  03/07/19 10:03:45  ls
+  248  03/07/19 10:04:49  find retro
+  249  03/07/19 10:06:25  ./maven_str.sh
+  250  03/07/19 10:18:46  ./maven_str.sh tytyuu
+  251  03/07/19 10:21:16  man mv
+  252  03/07/19 10:21:32  touch ble
+  253  03/07/19 10:21:33  ls
+  254  03/07/19 10:21:37  mv ble bla
+  255  03/07/19 10:21:42  ls
+  256  03/07/19 10:21:58  mv maven_str.sh abrakadabra.sh
+  257  03/07/19 10:24:05  ./abrakadabra.sh 
+  258  03/07/19 11:35:25  1 > 2
+  259  03/07/19 11:35:32  1>2
+  260  03/07/19 11:35:38  echo 1>2
+  261  03/07/19 11:36:03  wynik=$( 1>2) 
+  262  03/07/19 11:36:07  echo $wynik
+  263  03/07/19 08:30:16  man touch
+  264  03/07/19 11:52:54  echo < "sdsd"
+  265  03/07/19 11:53:01  echo dfg
+  266  03/07/19 11:53:06  echo <<  dfg
+  267  03/07/19 11:53:18  echo <  dfg
+  268  03/07/19 11:53:31  echo <  $PATH
+  269  03/07/19 11:53:36  echo <<  $PATH
+  270  03/07/19 11:55:22  telnet localhost
+  271  03/07/19 11:55:28  telnet localhost > re
+  272  03/07/19 11:55:35  ls
+  273  03/07/19 11:55:46  less re
+  274  03/07/19 11:55:58  rm 2 bla re
+  275  03/07/19 11:55:59  ls
+  276  03/07/19 12:09:09  ls abc
+  277  03/07/19 12:09:28  ls abc > qw
+  278  03/07/19 12:09:33  cat qw
+  279  03/07/19 12:09:57  ls abc >& qw
+  280  03/07/19 12:09:58  cat qw
+  281  03/07/19 12:10:04  ls abc > qw
+  282  03/07/19 12:10:06  cat qw
+  283  03/07/19 12:10:12  ls abc | qw
+  284  03/07/19 12:10:44  echo abc > qw
+  285  03/07/19 12:10:49  cat qw
+  286  03/07/19 15:20:34  whoami
+  287  03/07/19 15:20:38  who
+  288  03/07/19 15:20:43  w
+  289  03/07/19 15:21:02  thinger
+  290  03/07/19 15:21:08  finger
+  291  03/07/19 15:21:17  sudo apt install finger
+  292  03/07/19 15:37:42  zenity --entry --text "Rowerki" > ferki
+  293  03/07/19 15:38:00  less ferki 
+  294  03/07/19 15:38:29  zenity --entry --text "Rowerki" > ferki
+  295  03/07/19 15:38:51  less ferki 
+  296  03/07/19 15:38:56  vim ferki
+  297  03/07/19 15:39:13  man zenity
+  298  03/07/19 15:41:29  zenity --height=100 --entry --text "Rowerki" > ferki
+  299  03/07/19 15:41:55  zenity --height=100 --entry --text "Rowerki" >> ferki
+  300  03/07/19 15:42:04  zenity --pulse --height=100 --entry --text "Rowerki" >> ferki
+  301  03/07/19 15:42:15  zenity  --height=100 --entry --text "Rowerki" >> ferki
+  302  03/07/19 15:42:28  vim rowerki
+  303  03/07/19 15:42:34  vim ferki
+  304  03/07/19 15:46:38  ls
+  305  03/07/19 15:46:44  ls > dl
+  306  03/07/19 15:46:46  cat dl
+  307  03/07/19 15:46:49  rm dl
+  308  03/07/19 15:46:58  ls xyz 
+  309  03/07/19 15:47:04  ls xyz > dl
+  310  03/07/19 15:47:07  cat dl
+  311  03/07/19 15:47:21  ls xyz > dl 2>&1
+  312  03/07/19 15:47:23  cat dl
+  313  03/07/19 16:04:07  man wc
+  314  03/07/19 16:05:06  man ls
+  315  03/07/19 16:06:45  ls
+  316  03/07/19 16:06:49  ls -d
+  317  03/07/19 16:06:54  ls -D
+  318  03/07/19 16:06:58  man ls
+  319  03/07/19 16:07:27  pwd
+  320  03/07/19 16:07:33  ls -dl
+  321  03/07/19 16:07:44  ls -l
+  322  03/07/19 16:07:55  mkdir a
+  323  03/07/19 16:07:57  ls -dl
+  324  03/07/19 16:08:04  ls -l
+  325  03/07/19 16:08:29  rm a
+  326  03/07/19 16:08:33  rm ir a
+  327  03/07/19 16:08:38  rm -r a
+  328  03/07/19 16:08:40  cd ..
+  329  03/07/19 16:08:41  ls
+  330  03/07/19 16:08:46  ls -ld
+  331  03/07/19 16:10:06  ls bash
+  332  03/07/19 16:10:08  ls
+  333  03/07/19 16:10:11  ls .
+  334  03/07/19 16:10:22  ls -d */
+  335  03/07/19 16:10:31  cd
+  336  03/07/19 16:10:33  clear
+  337  03/07/19 16:10:34  ls
+  338  03/07/19 16:11:04  ls -d
+  339  03/07/19 16:11:07  tree
+  340  03/07/19 16:11:12  man tree
+  341  03/07/19 16:11:34  tree -d
+  342  03/07/19 16:11:49  tree -d | tail -1
+  343  03/07/19 16:12:04  tree -d | tail -2
+  344  03/07/19 16:12:08  tree -d | tail -5
+  345  03/07/19 16:12:50  tree -d ~ | wc -l
+  346  03/07/19 16:12:57  tree -ad ~ | wc -l
+  347  03/07/19 16:13:08  pwd
+  348  03/07/19 16:13:31  tree -ad ~
+  349  03/07/19 16:13:40  tree -ad ~ | wc -l
+  350  03/07/19 16:17:31  echo asd >  lalka
+  351  03/07/19 16:17:32  ls
+  352  03/07/19 16:17:40  lalka
+  353  03/07/19 16:17:47  ./lalka
+  354  03/07/19 16:18:05  rm lalka
+  355  03/07/19 16:18:31  tree -d | tail -1
+  356  03/07/19 16:19:02  cd
+  357  03/07/19 16:19:21  ls -haltr | grep "^d" | wc -l
+  358  03/07/19 16:19:31  ls -haltR | grep "^d" | wc -l
+  359  03/07/19 16:21:42  ls -aldR 
+  360  03/07/19 16:21:51  pwd
+  361  03/07/19 16:21:57  ls 
+  362  03/07/19 16:22:03  ls -R
+  363  03/07/19 16:22:17  ls -Rl
+  364  03/07/19 16:22:27  ls -Rld | wc -l
+  365  03/07/19 16:22:36  ls -RlD 
+  366  03/07/19 16:22:45  ls -RlD | wc -l
+  367  03/07/19 16:22:49  man ls
+  368  03/07/19 16:23:53  ls -dRa
+  369  03/07/19 16:24:02  ls -Rad
+  370  03/07/19 16:24:13  tree -d | tail -1
+  371  03/07/19 16:27:36  ./ile_katalogow_tree.sh
+  372  03/07/19 16:27:59  ./ile_katalogow_tree.sh 
+  373  03/07/19 16:28:34  pwd
+  374  03/07/19 16:29:12  ls -aRl | cut d: -f 1
+  375  03/07/19 16:29:18  ls -aRl | cut -d: -f 1
+  376  03/07/19 16:29:29  man cut
+  377  03/07/19 16:29:54  la -halt
+  378  03/07/19 16:30:29  ls -aRl | cut -d: " "
+  379  03/07/19 16:30:35  ls -aRl | cut -d: 
+  380  03/07/19 16:30:47  ls -aRl | cut -d -f1
+  381  03/07/19 16:30:49  ls -aRl | cut -d -f 1
+  382  03/07/19 16:30:59  ls -aRl | cut -d" "  -f 1
+  383  03/07/19 16:31:11  ls -al | cut -d" "  -f 1
+  384  03/07/19 16:31:15  ls -al | cut -d" "  -f 1,3
+  385  03/07/19 16:31:21  ls -al 
+  386  03/07/19 16:31:29  ls -al | cut -d" "  -f 1,9
+  387  03/07/19 16:31:35  ls -al 
+  388  03/07/19 16:31:51  ls -al | cut -d" *"  -f 1,9
+  389  03/07/19 16:31:59  ls -al | cut -d" "  -f 1,3
+  390  03/07/19 16:32:09  ls -al 
+  391  03/07/19 16:32:25  ls -al | cut -d" "  -f 2
+  392  03/07/19 16:32:31  ls -al 
+  393  03/07/19 16:39:04  ls -al | cut  -f 2
+  394  03/07/19 16:39:09  ls -al | cut  -f 1
+  395  03/07/19 16:39:12  ls -al | cut  -f 5
+  396  03/07/19 16:39:18  ls -al | cut -d:  -f 5
+  397  03/07/19 16:39:25  ls -al | cut -d     -f 5
+  398  03/07/19 16:39:35  ls -al | cut -d -f 5
+  399  03/07/19 16:39:54  ls -al | cut -d' ' -f 5
+  400  03/07/19 16:40:04  ls -al | cut -d' ' -f 3
+  401  03/07/19 16:40:09  ls -al | cut -d' ' -f 1
+  402  03/07/19 16:40:14  ls -al | cut -d' ' -f 1,9
+  403  03/07/19 16:40:20  ls -al | cut -d' ' -f 12
+  404  03/08/19 08:24:34  ls
+  405  03/08/19 08:25:37  ./ile_katalogow_tree.sh
+  406  03/08/19 08:26:50  tree ~
+  407  03/08/19 08:27:10  ./ile_katalogow_tree.sh
+  408  03/08/19 08:27:39  tree -d ~
+  409  03/08/19 08:28:39  ls -l
+  410  03/08/19 08:28:41  ls -lr
+  411  03/08/19 08:28:44  ls -lR
+  412  03/08/19 08:28:52  ls  -lr  ~
+  413  03/08/19 08:29:00  ls  -lR  ~
+  414  03/08/19 08:29:11  ls  -lRA  ~
+  415  03/08/19 08:29:30  ./ile_katalogow_tree.sh
+  416  03/08/19 08:30:12  ls ~
+  417  03/08/19 08:30:17  man ls
+  418  03/08/19 08:30:49  ls -RlA
+  419  03/08/19 08:37:19  ./ile_katalogow_tree.sh
+  420  03/08/19 08:37:53  ls -Ral 
+  421  03/08/19 08:38:05  cd
+  422  03/08/19 08:38:06  pwd
+  423  03/08/19 08:38:10  ls -Ral
+  424  03/08/19 08:38:21  ls -Ral | grep "^D"
+  425  03/08/19 08:38:25  ls -Ral | grep "^d" "
+  426  03/08/19 08:38:37  ls -Ral | grep "^d" | wc -l
+  427  03/08/19 08:39:13  ./ile_katalogow_tree.sh
+  428  03/08/19 08:39:32  tree -d
+  429  03/08/19 08:39:44  ls -Ral | grep "^d" | wc -l
+  430  03/08/19 08:39:49  man ls
+  431  03/08/19 08:40:19  man tree
+  432  03/08/19 08:56:30  jshell
+  433  03/08/19 09:02:57  ls
+  434  03/08/19 09:03:05  rm 1 2
+  435  03/08/19 09:03:07  ls
+  436  03/08/19 09:03:17  mv 3 1
+  437  03/08/19 09:03:18  ls
+  438  03/08/19 09:03:27  jshell ./1
+  439  03/08/19 09:03:50  chmod +x
+  440  03/08/19 09:03:55  chmod x+
+  441  03/08/19 09:04:03  chmod x+ 2
+  442  03/08/19 09:04:09  chmod +x  2
+  443  03/08/19 09:04:13  chmod +x  ./2
+  444  03/08/19 09:04:17  chmod +x  1
+  445  03/08/19 09:04:20  ./1
+  446  03/08/19 09:04:28  vim 1
+  447  03/08/19 09:04:48  ls -l
+  448  03/08/19 09:04:57  mv 1 losowanie
+  449  03/08/19 09:06:08  jshell ./losowanie
+  450  03/08/19 09:06:48  jshell losowanie
+  451  03/08/19 09:09:57  vim ./losownaie
+  452  03/08/19 09:10:04  vim ./losowanie
+  453  03/08/19 09:10:41  jshell ./losowanie
+  454  03/08/19 12:15:38  pwd
+  455  03/08/19 12:16:08  alias abrakadabra=/home/krzysztof/Kod/bash/abrakadabra.sh
+  456  03/08/19 12:17:04  abracadabra
+  457  03/08/19 12:17:19  abrakadabra
+  458  03/08/19 14:50:03  git clone git@git.epam.com:tomasz_borek/ja-materials.wiki.git
+  459  03/08/19 14:51:20  pwd
+  460  03/08/19 14:51:46  history > historia1tydzien.txt

@@ -1,0 +1,3 @@
+ Random rand = new Random();
+ int liczba = rand.nextInt(10)+1;
+ System.out.println(liczba);
