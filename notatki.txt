@@ -1,3 +1,5 @@
 13 marca 16:43:01
 Przekonałem się do TDD, Spring korzysta zJUnit tylko, Wijtek pokazał mi ciekawa implementację poczatku gry w życie, poznałem skrót klawiszowy ctr B na przejście do metody
 
+ <Czwartek> 14 marca 15:27:10
+Opracowywuję Bash Expansion, mam nadzieję, że uda mi sie dzisiaj skończyć
