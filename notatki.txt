@@ -3,3 +3,6 @@ Przekonałem się do TDD, Spring korzysta zJUnit tylko, Wijtek pokazał mi cieka
 
  <Czwartek> 14 marca 15:27:10
 Opracowywuję Bash Expansion, mam nadzieję, że uda mi sie dzisiaj skończyć
+
+ <Piątek - Końtyg> 15 marca 14:59:01
+Bardzo ciekawe warsztaty, dobrze przygotowane. Dowiedziałem się, jak bardzo ulotna jest wiedza, która jest nieużywana stale.  Wyjątki: wait i notify na Object. 
