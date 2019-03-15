@@ -1,0 +1,1 @@
+grep -rnw ./ -e 'epam' - wyszukuje słowo epam w podanym katalogu

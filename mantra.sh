@@ -40,7 +40,9 @@ echo -e "*.class""\n""target/""\n"".idea/"'\n'"*.iml" > .gitignore
 ###### INNE ######
 echo -e "# ABOUT $PROJEKT\n\n\n## PREREQUISITES \n\n\n### RUNNING" > README.md 
 
-/home/krzysztof/.local/share/Trash/files/idea-IC-183.5912.21/bin/idea.sh . &
+#/home/krzysztof/.local/share/Trash/files/idea-IC-183.5912.21/bin/idea.sh . &
+
+/opt/idea-IC-183.5912.21/bin/idea.sh . &
 
 git add .
 git commit -m "Initial commit"
