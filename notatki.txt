@@ -6,3 +6,38 @@ Opracowywuję Bash Expansion, mam nadzieję, że uda mi sie dzisiaj skończyć
 
  <Piątek - Końtyg> 15 marca 14:59:01
 Bardzo ciekawe warsztaty, dobrze przygotowane. Dowiedziałem się, jak bardzo ulotna jest wiedza, która jest nieużywana stale.  Wyjątki: wait i notify na Object. 
+
+ <Poniedziałek> 18 marca 14:59:01
+Dobre warsztaty z wydajności - co jest szybsze- strumien czy pętla for (szybsze sa pętle for).
+
+ <Wtorek> 19 marca 14:59:01
+Automatyczne dopowiadanie w BASHu, Arrays.sort(), pakietowanie i udostepnienie API, interfejs jest dla API, CRC bardzo pomaga w projektowaniu
+
+ <Wtorek> 19 marca 16:06:22
+ py
+
+ <Wtorek> 19 marca 16:06:30
+
+ <Wtorek> 19 marca 16:06:35
+
+ <Wtorek> 19 marca 16:06:55
+I udało się zautomatyzowac wywołanie skryptu
+
+ <Wtorek> 19 marca 16:09:17
+
+ <Wtorek> 19 marca 16:09:32
+
+ <Wtorek> 19 marca 16:09:39
+
+ <Środa> 20 marca 14:59:01
+Wzorzec builder z idiotoodpornym API, wystawienie w paczce API z lokalnym orkiestratorem, inicjujacym pakietowe obiekty, zrobienie tablicy do OX na ArrayList()
+
+ <Środa> 20 marca 15:02:36
+
+ <Środa> 20 marca 15:02:41
+
+ <Czwartek> 21 marca 14:59:01
+IntUnaryOperator, kodowanie OX, próba zakodowania tego, co pokazał Tomek (zapisywanie potencjalnych pólzwycięskich)
+
+ <Piątek - Końtyg> 22 marca 14:59:01
+Warto aby enum dostarczal w swoim polu ResourceBoundla, a reszta jest na zdjeciach.
