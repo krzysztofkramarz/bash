@@ -41,3 +41,8 @@ IntUnaryOperator, kodowanie OX, próba zakodowania tego, co pokazał Tomek (zapi
 
  <Piątek - Końtyg> 22 marca 14:59:01
 Warto aby enum dostarczal w swoim polu ResourceBoundla, a reszta jest na zdjeciach.
+
+ <> 23 March 02:59:01 PM
+
+ <> 23 March 05:59:01 PM
+Bean Validator (hibernate validator + el-api)

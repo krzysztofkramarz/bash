@@ -6,7 +6,7 @@
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "gc"
+            "jj"
         ], 
         "immediate": false, 
         "ignoreCase": false, 
@@ -17,11 +17,13 @@
         "hotKey": null, 
         "modifiers": []
     }, 
-    "modes": [], 
+    "modes": [
+        1
+    ], 
     "showInTrayMenu": false, 
     "matchCase": false, 
     "filter": {
-        "regex": ".* - gedit", 
+        "regex": null, 
         "isRecursive": false
     }, 
     "type": "phrase", 
