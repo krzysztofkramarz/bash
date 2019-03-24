@@ -46,3 +46,7 @@ Warto aby enum dostarczal w swoim polu ResourceBoundla, a reszta jest na zdjecia
 
  <> 23 March 05:59:01 PM
 Bean Validator (hibernate validator + el-api)
+
+ <> 24 March 02:59:01 PM
+
+ <> 24 March 05:59:01 PM
