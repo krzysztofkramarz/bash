@@ -50,3 +50,6 @@ Bean Validator (hibernate validator + el-api)
  <> 24 March 02:59:01 PM
 
  <> 24 March 05:59:01 PM
+
+ <Poniedziałek> 25 marca 14:59:01
+Dependency Inversion, nie Injecton :)
