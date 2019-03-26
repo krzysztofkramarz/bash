@@ -53,3 +53,6 @@ Bean Validator (hibernate validator + el-api)
 
  <Poniedziałek> 25 marca 14:59:01
 Dependency Inversion, nie Injecton :)
+
+ <Wtorek> 26 marca 14:59:01
+Objecty 3 rodzaje w gicie: blob, drzewo, migawka
