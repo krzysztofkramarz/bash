@@ -23,11 +23,11 @@ cd $PROJEKT
 ###### MAVEN ######
 touch pom.xml
 mkdir -p src/{main,test}/java/com/fonowizja/$PROJEKT
-curl -o pom.xml https://gist.githubusercontent.com/LIttleAncientForestKami/c9b185c123fc97f6022861f645766aa5/raw/45db276f570fcca357fbcf36b6209517c69c6427/pom.xml
+curl -o pom.xml https://gist.githubusercontent.com/krzysztofkramarz/33c88f9d47f16dd91ccc0a0a22b09ca0/raw/7c7663f1022fbac539e19e92951d641fea0abb60/pom.xml
 
-sed -ie "s/<groupId>.*<\/groupId>/<groupId>com.fonowizja.<\/groupId>/g" pom.xml
-sed -ie "s/<artifactId>.*<\/artifactId>/<artifactId>$PROJEKT<\/artifactId>/g" pom.xml
-sed -ie "s/<version>.*<\/version>/<version>1.0.0-SNAPSHOT<\/version>/g" pom.xml
+sed -ie "s/<groupId>grupa_do_zmiany<\/groupId>/<groupId>com.fonowizja.<\/groupId>/g" pom.xml
+sed -ie "s/<artifactId>app_do_zmiany<\/artifactId>/<artifactId>$PROJEKT<\/artifactId>/g" pom.xml
+sed -ie "s/<version>wersja_do_zmiany<\/version>/<version>1.0.0-SNAPSHOT<\/version>/g" pom.xml
 
 rm pom.xmle
 

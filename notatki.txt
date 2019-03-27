@@ -56,3 +56,8 @@ Dependency Inversion, nie Injecton :)
 
  <Wtorek> 26 marca 14:59:01
 Objecty 3 rodzaje w gicie: blob, drzewo, migawka
+
+ <Środa> 27 marca 08:22:30
+
+ <Środa> 27 marca 14:59:01
+Usystematyzowane spotkania w Scrumie, trzeba miec mocne hasło
