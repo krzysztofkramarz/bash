@@ -72,3 +72,5 @@ Usystematyzowane spotkania w Scrumie, trzeba miec mocne hasło
 
  <Czwartek> 28 marca 14:59:01
 Jak działa przykładowy automat do gry w OX
+
+ <Czwartek> 28 marca 16:10:09
