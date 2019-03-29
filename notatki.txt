@@ -1,5 +1,9 @@
+
+12 marca 16:02:01
+gitignore.io dla generowania .gitignore, @DataProvider dla parametryzowania testów w TestNG
+
 13 marca 16:43:01
-Przekonałem się do TDD, Spring korzysta zJUnit tylko, Wijtek pokazał mi ciekawa implementację poczatku gry w życie, poznałem skrót klawiszowy ctr B na przejście do metody
+Przekonałem się do TDD, Spring korzysta zJUnit tylko, Wijtek pokazał mi ciekawa implementację poczatku gry w życie, poznałem skrót klawiszowy ctr B na przejście do metody, dowiedzialem sie nasowjej rekrutacji, gdzie sa moje słabe strony
 
  <Czwartek> 14 marca 15:27:10
 Opracowywuję Bash Expansion, mam nadzieję, że uda mi sie dzisiaj skończyć
@@ -16,9 +20,6 @@ Automatyczne dopowiadanie w BASHu, Arrays.sort(), pakietowanie i udostepnienie A
  <Wtorek> 19 marca 16:06:22
  py
 
- <Wtorek> 19 marca 16:06:30
-
- <Wtorek> 19 marca 16:06:35
 
  <Wtorek> 19 marca 16:06:55
 I udało się zautomatyzowac wywołanie skryptu
@@ -33,14 +34,12 @@ IntUnaryOperator, kodowanie OX, próba zakodowania tego, co pokazał Tomek (zapi
  <Piątek - Końtyg> 22 marca 14:59:01
 Warto aby enum dostarczal w swoim polu ResourceBoundla, a reszta jest na zdjeciach.
 
- <> 23 March 02:59:01 PM
-
  <> 23 March 05:59:01 PM
 Bean Validator (hibernate validator + el-api)
 
 
  <Poniedziałek> 25 marca 14:59:01
-Dependency Inversion, nie Injecton :)
+Dependency Inversion, nie Injecton :). Automat do gier dzięki Adamowi S.
 
  <Wtorek> 26 marca 14:59:01
 Objecty 3 rodzaje w gicie: blob, drzewo, migawka
