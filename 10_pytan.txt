@@ -1,0 +1,22 @@
+1) filary obiektowości: polimorfizm, enkapsulacja, abstrakcja, dziedziczenie
+
+2) kto wymyslił termin obiektowość i jaka definicja
+
+3) antypraktyki hermetyzacji wszędzie public, modyfikowanie stanu, domyslnie public, techniczne pakiety
+
+4) słowa kluczowe hermetyzacji  package import  modyfikatory
+
+5) metody Object
+
+6) Czy Java jest obiektowa - nie jest bo prymitywne, funkcyjne programownaie, imperatywne
+
+7) słabośc dziedziczenia  mało elastyczny, słabość kruchej klasy, problem diamentu (1 lub wielokrotne dziedziczenie?), rzadkość wystepowania
+
+8) kruchość klasy podstawowej fbc
+
+9) rodzaje polimorfizmu
+
+10) implementacja rodzajów polimorfizmu:
+
+- p. zachowań - metoda przyjmuje lambdę, mogę zmieniac zachowanie metod
+- p. parametryczny - parametryzacja typów typami
