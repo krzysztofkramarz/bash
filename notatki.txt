@@ -53,3 +53,6 @@ Usystematyzowane spotkania w Scrumie, trzeba miec mocne hasło
 Jak działa przykładowy automat do gry w OX
 
 
+
+ <Piątek - Końtyg> 29 marca 14:59:01
+Jak optymalizowac HashMapę - czy ma byc płaska i optymalna wyszukiwaniem czy optymalna w pamięci i hashCode ma miec kolizję - i żeby kolizje było równo rozłożone i tym samy była zoptymalizowana mapa.
