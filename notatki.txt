@@ -23,18 +23,9 @@ Automatyczne dopowiadanie w BASHu, Arrays.sort(), pakietowanie i udostepnienie A
  <Wtorek> 19 marca 16:06:55
 I udało się zautomatyzowac wywołanie skryptu
 
- <Wtorek> 19 marca 16:09:17
-
- <Wtorek> 19 marca 16:09:32
-
- <Wtorek> 19 marca 16:09:39
-
  <Środa> 20 marca 14:59:01
 Wzorzec builder z idiotoodpornym API, wystawienie w paczce API z lokalnym orkiestratorem, inicjujacym pakietowe obiekty, zrobienie tablicy do OX na ArrayList()
 
- <Środa> 20 marca 15:02:36
-
- <Środa> 20 marca 15:02:41
 
  <Czwartek> 21 marca 14:59:01
 IntUnaryOperator, kodowanie OX, próba zakodowania tego, co pokazał Tomek (zapisywanie potencjalnych pólzwycięskich)
@@ -47,9 +38,6 @@ Warto aby enum dostarczal w swoim polu ResourceBoundla, a reszta jest na zdjecia
  <> 23 March 05:59:01 PM
 Bean Validator (hibernate validator + el-api)
 
- <> 24 March 02:59:01 PM
-
- <> 24 March 05:59:01 PM
 
  <Poniedziałek> 25 marca 14:59:01
 Dependency Inversion, nie Injecton :)
@@ -57,20 +45,12 @@ Dependency Inversion, nie Injecton :)
  <Wtorek> 26 marca 14:59:01
 Objecty 3 rodzaje w gicie: blob, drzewo, migawka
 
- <Środa> 27 marca 08:22:30
 
  <Środa> 27 marca 14:59:01
 Usystematyzowane spotkania w Scrumie, trzeba miec mocne hasło
 
- <Środa> 27 March 07:18:49 PM
-
- <Środa> 27 March 07:25:01 PM
-
- <Środa> 27 March 07:28:06 PM
-
- <Czwartek> 28 marca 08:26:00
 
  <Czwartek> 28 marca 14:59:01
 Jak działa przykładowy automat do gry w OX
 
- <Czwartek> 28 marca 16:10:09
+
