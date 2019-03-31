@@ -56,3 +56,7 @@ Jak działa przykładowy automat do gry w OX
 
  <Piątek - Końtyg> 29 marca 14:59:01
 Jak optymalizowac HashMapę - czy ma byc płaska i optymalna wyszukiwaniem czy optymalna w pamięci i hashCode ma miec kolizję - i żeby kolizje było równo rozłożone i tym samy była zoptymalizowana mapa.
+
+ <> 30 March 05:59:01 PM
+
+ <> 31 March 05:59:01 PM
