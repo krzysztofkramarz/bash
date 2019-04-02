@@ -60,3 +60,6 @@ Jak optymalizowac HashMapę - czy ma byc płaska i optymalna wyszukiwaniem czy o
  <> 30 March 05:59:01 PM
 
  <> 31 March 05:59:01 PM
+
+ <Poniedziałek> 01 kwietnia 14:59:01
+Fluent API
