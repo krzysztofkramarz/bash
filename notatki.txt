@@ -63,3 +63,6 @@ Jak optymalizowac HashMapę - czy ma byc płaska i optymalna wyszukiwaniem czy o
 
  <Poniedziałek> 01 kwietnia 14:59:01
 Fluent API
+
+ <Wtorek> 02 kwietnia 14:59:01
+Dziś ciąg dalszy OX. 
