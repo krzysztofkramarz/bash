@@ -1,12 +1,12 @@
 {
-    "usageCount": 7, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "git status", 
+    "description": "mvn clean install", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "gs"
+            "mci"
         ], 
         "immediate": false, 
         "ignoreCase": false, 
