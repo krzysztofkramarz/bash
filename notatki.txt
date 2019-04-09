@@ -72,3 +72,8 @@ Ciag dalszy OX , czesciowo z Wojtkiem :)
 
  <Czwartek> 04 kwietnia 14:59:01
 Dalej OX
+
+ <Piątek - Końtyg> 05 kwietnia 14:59:01
+Egzamin część Bashowa. Jak działa cron raz jeszcze, drukowanie do pliku zrzutów ekranu, translate 
+
+ <Poniedziałek> 08 kwietnia 14:59:01
