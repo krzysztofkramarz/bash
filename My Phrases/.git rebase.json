@@ -1,12 +1,12 @@
 {
-    "usageCount": 11, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "git commit", 
+    "description": "git rebase", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "gcm"
+            "gr"
         ], 
         "immediate": false, 
         "ignoreCase": false, 

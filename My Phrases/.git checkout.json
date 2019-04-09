@@ -1,12 +1,12 @@
 {
-    "usageCount": 11, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "git commit", 
+    "description": "git checkout", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [
-            "gcm"
+            "gc"
         ], 
         "immediate": false, 
         "ignoreCase": false, 
