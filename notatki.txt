@@ -79,3 +79,6 @@ Egzamin część Bashowa. Jak działa cron raz jeszcze, drukowanie do pliku zrzu
 
 
  <Wtorek> 09 kwietnia 14:59:01
+
+ <Środa> 10 kwietnia 14:59:01
+duzo. skrypty mavenowe shade i assembly, oraz archotekruta wyklad, oraz jak manifest pozwala na wesjcie do jarek innych biblipotek
