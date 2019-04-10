@@ -77,3 +77,5 @@ Dalej OX
 Egzamin część Bashowa. Jak działa cron raz jeszcze, drukowanie do pliku zrzutów ekranu, translate 
 
 
+
+ <Wtorek> 09 kwietnia 14:59:01
