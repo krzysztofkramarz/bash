@@ -82,3 +82,12 @@ Egzamin część Bashowa. Jak działa cron raz jeszcze, drukowanie do pliku zrzu
 
  <Środa> 10 kwietnia 14:59:01
 duzo. skrypty mavenowe shade i assembly, oraz archotekruta wyklad, oraz jak manifest pozwala na wesjcie do jarek innych biblipotek
+
+ <Czwartek> 11 kwietnia 14:59:01
+Wątki cd oraz podsumownaie OX
+
+ <Czwartek> 11 kwietnia 15:28:35
+Wirująca blokada - to zły pomysł
+
+ <Piątek - Końtyg> 12 kwietnia 14:59:02
+obsluga przerwań, co to jest wirująca blokada, podsumowanie wątków, sekcja krytyczna z dedykowanym monitorem
