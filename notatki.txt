@@ -91,3 +91,6 @@ Wirująca blokada - to zły pomysł
 
  <Piątek - Końtyg> 12 kwietnia 14:59:02
 obsluga przerwań, co to jest wirująca blokada, podsumowanie wątków, sekcja krytyczna z dedykowanym monitorem
+
+ <Poniedziałek> 15 kwietnia 14:59:01
+Scrummaster - początki
