@@ -95,3 +95,5 @@ obsluga przerwań, co to jest wirująca blokada, podsumowanie wątków, sekcja k
  <Poniedziałek> 15 kwietnia 14:59:01
 Scrummaster - początki
 
+
+ <Wtorek> 16 kwietnia 14:59:01
