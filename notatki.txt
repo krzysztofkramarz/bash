@@ -96,12 +96,12 @@ obsluga przerwań, co to jest wirująca blokada, podsumowanie wątków, sekcja k
 Scrummaster - początki
 
 
- <Wtorek> 16 kwietnia 14:59:01
-
  <Środa> 17 kwietnia 14:59:01
 wykład z sieci. warstwa to [lojer], nie [lajer] ;)
 
  <Czwartek> 18 kwietnia 14:59:01
 Jenkis - jak dodac projekt z GitHuba (webhooks)
 
- <Piątek - Końtyg> 19 kwietnia 14:59:01
+
+ <Wtorek> 23 kwietnia 14:59:01
+arn't ;) adnotacje
