@@ -5,3 +5,6 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "[]"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-left "[]"
 
 ln -s ~/Kod/ - link symboliczny
+
+chsh - zmień powłokę i podajemy
+/home/krzysztof/Desktop/Kod/bash/bash_skroty.txt

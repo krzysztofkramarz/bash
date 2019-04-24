@@ -92,11 +92,17 @@ Wirująca blokada - to zły pomysł
  <Piątek - Końtyg> 12 kwietnia 14:59:02
 obsluga przerwań, co to jest wirująca blokada, podsumowanie wątków, sekcja krytyczna z dedykowanym monitorem
 
- <> 13 April 02:59:01 PM
+ <Poniedziałek> 15 kwietnia 14:59:01
+Scrummaster - początki
 
 
- <> 13 April 05:59:01 PM
+ <Środa> 17 kwietnia 14:59:01
+wykład z sieci. warstwa to [lojer], nie [lajer] ;)
 
- <> 14 April 05:59:01 PM
+ <Czwartek> 18 kwietnia 14:59:01
+Jenkis - jak dodac projekt z GitHuba (webhooks)
 
- <> 21 April 05:59:01 PM
+
+ <Wtorek> 23 kwietnia 14:59:01
+arn't ;) adnotacje
+
