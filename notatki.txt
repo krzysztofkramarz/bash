@@ -105,3 +105,5 @@ Jenkis - jak dodac projekt z GitHuba (webhooks)
 
  <Wtorek> 23 kwietnia 14:59:01
 arn't ;) adnotacje
+
+ <Środa> 24 kwietnia 14:59:01
