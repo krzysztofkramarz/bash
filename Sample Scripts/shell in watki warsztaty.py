@@ -1,6 +1,6 @@
 # Enter script code
 import os
 
-os.chdir("/home/krzysztof/Kod/repo/annotations-workshop")
+os.chdir("/home/krzysztof/Kod/repo/watki_warsztaty")
 
 os.system("gnome-terminal")
