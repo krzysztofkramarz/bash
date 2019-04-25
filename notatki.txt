@@ -106,3 +106,12 @@ Jenkis - jak dodac projekt z GitHuba (webhooks)
  <Wtorek> 23 kwietnia 14:59:01
 arn't ;) adnotacje
 
+
+ <Czwartek> 25 kwietnia 14:59:01
+generyki vs ?, Optional isPresent, empty, of, ofNullable, ifPresent, or, orElse, Hibernate podstawy
+
+ <Czwartek> 25 kwietnia 15:02:16
+Róznice miedzy ? a generyk: generyk nie może użyć słowa super, nie może mieć więcej niż jeden typ po extends
+
+ <Czwartek> 25 kwietnia 15:05:20
+dodatkowo jesli klasa jest parametryzowana np <E>, to musielibysmy wklasie dodawac kolene literki dla wieloznacznosci, a tak to wszędzie damy ?
