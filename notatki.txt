@@ -115,3 +115,5 @@ Róznice miedzy ? a generyk: generyk nie może użyć słowa super, nie może mi
 
  <Czwartek> 25 kwietnia 15:05:20
 dodatkowo jesli klasa jest parametryzowana np <E>, to musielibysmy wklasie dodawac kolene literki dla wieloznacznosci, a tak to wszędzie damy ?
+
+ <Piątek - Końtyg> 26 April 05:59:01 PM
