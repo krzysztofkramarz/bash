@@ -77,7 +77,6 @@ Dalej OX
 Egzamin część Bashowa. Jak działa cron raz jeszcze, drukowanie do pliku zrzutów ekranu, translate 
 
 
-
  <Wtorek> 09 kwietnia 14:59:01
 
  <Środa> 10 kwietnia 14:59:01
@@ -116,4 +115,10 @@ Róznice miedzy ? a generyk: generyk nie może użyć słowa super, nie może mi
  <Czwartek> 25 kwietnia 15:05:20
 dodatkowo jesli klasa jest parametryzowana np <E>, to musielibysmy wklasie dodawac kolene literki dla wieloznacznosci, a tak to wszędzie damy ?
 
- <Piątek - Końtyg> 26 April 05:59:01 PM
+
+ <Piątek - Końtyg> 26 kwietnia 14:04:35
+uzycie LinkedList jako typu List nie da nam metod z interfejsu Queue, przeszukkiwanie BST algorytmami BFS i DFS
+
+ <Poniedziałek> 29 kwietnia 14:59:01
+Powtórka z kolekcji - więdz np hash w HashMapie jest czyms innym niż hash obiektu. LisnLista ogólnego przeznaczenia ale teżnie zrocowe Listy, a wzorcowe kolejki. Nie możemy parametryzowac class XX <String>
+
