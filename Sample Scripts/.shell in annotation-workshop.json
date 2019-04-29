@@ -2,7 +2,7 @@
     "usageCount": 4, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "shell in ox", 
+    "description": "shell in annotation-workshop", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
