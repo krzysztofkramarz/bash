@@ -123,3 +123,5 @@ uzycie LinkedList jako typu List nie da nam metod z interfejsu Queue, przeszukki
 Powtórka z kolekcji - więdz np hash w HashMapie jest czyms innym niż hash obiektu. LisnLista ogólnego przeznaczenia ale teżnie zrocowe Listy, a wzorcowe kolejki. Nie możemy parametryzowac class XX <String>
 
 
+
+ <> 05 May 05:59:01 PM
