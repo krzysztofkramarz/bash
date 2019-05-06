@@ -122,3 +122,6 @@ uzycie LinkedList jako typu List nie da nam metod z interfejsu Queue, przeszukki
  <Poniedziałek> 29 kwietnia 14:59:01
 Powtórka z kolekcji - więdz np hash w HashMapie jest czyms innym niż hash obiektu. LisnLista ogólnego przeznaczenia ale teżnie zrocowe Listy, a wzorcowe kolejki. Nie możemy parametryzowac class XX <String>
 
+
+ <Wtorek> 30 kwietnia 14:59:01
+indeks na bazie, HttpClient, a wczoraj o rodzaje GColectorów
