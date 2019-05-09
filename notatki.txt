@@ -125,3 +125,13 @@ Powtórka z kolekcji - więdz np hash w HashMapie jest czyms innym niż hash obi
 
 
  <> 05 May 05:59:01 PM
+
+ <Poniedziałek> 06 May 02:59:01 PM
+
+ <Poniedziałek> 06 May 05:59:01 PM
+
+ <Czwartek> 09 May 02:59:01 PM
+
+ <Czwartek> 09 May 05:59:01 PM
+pgExercises
+pgExercises
