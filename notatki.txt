@@ -131,3 +131,8 @@ pgExercises
 
  <Czwartek> 09 May 06:57:14 PM
 Gdy robię SELECT * FROM ... WHERE x IN (...), to IN tworzy nową tabelę z jedną kolumna i nastepuje iloczybn ? dwóch tabel
+
+ <Piątek - Końtyg> 10 May 02:59:01 PM
+
+ <Piątek - Końtyg> 10 May 05:59:01 PM
+Pgexcercises - zdalnie
