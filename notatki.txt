@@ -125,3 +125,15 @@ Powtórka z kolekcji - więdz np hash w HashMapie jest czyms innym niż hash obi
  <Wtorek> 30 kwietnia 14:59:01
 indeks na bazie, HttpClient, a wczoraj o rodzaje GColectorów
 
+
+ <Poniedziałek> 06 maja 14:59:01
+1 forma normalna - usuwamy redundancję, dekomponując na mniejsze tabele
+
+ <Wtorek> 07 maja 14:59:01
+Moja pierwsza rekrutacja. jak joina. jak sprawdzić foregin key (sprobowac dostac naruszenie wiezow integralnosci poprzez skasowanie riwersza uzytego gdzie idziej). Jak jenkinsem budowac w konkretnym miejscu. 
+
+ <Środa> 08 maja 14:59:01
+
+ <Czwartek> 09 maja 14:59:01
+
+ <Piątek - Końtyg> 10 maja 14:59:01
