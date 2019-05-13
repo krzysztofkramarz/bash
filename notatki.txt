@@ -144,3 +144,6 @@ Gdy robię SELECT * FROM ... WHERE x IN (...), to IN tworzy nową tabelę z jedn
 
  <Piątek - Końtyg> 10 May 05:59:01 PM
 Pgexcercises - zdalnie
+
+ <Poniedziałek> 13 maja 14:59:01
+Map w JS, gdy zbudujemy na serwerze apke mavenem, to gdy jenkins bedzie potem budowal, to nie bedzie mial uprawnien
