@@ -147,3 +147,6 @@ Pgexcercises - zdalnie
 
  <Poniedziałek> 13 maja 14:59:01
 Map w JS, gdy zbudujemy na serwerze apke mavenem, to gdy jenkins bedzie potem budowal, to nie bedzie mial uprawnien
+
+ <Wtorek> 14 maja 14:59:01
+na razie niewiele
