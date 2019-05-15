@@ -150,3 +150,6 @@ Map w JS, gdy zbudujemy na serwerze apke mavenem, to gdy jenkins bedzie potem bu
 
  <Wtorek> 14 maja 14:59:01
 na razie niewiele
+
+ <Środa> 15 maja 14:59:01
+dużo. Co to typy referencji (strong, soft, weak, phantom). Dlaczego HashTable deprecated. Co to fail-fast i fais-safe iterator. Iterator vs iterable. WeakHashMap. permgen vs metaspace. 

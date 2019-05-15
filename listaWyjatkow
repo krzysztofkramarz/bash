@@ -2,3 +2,11 @@ CHECKED
 CloneNotSupportedException
 InvocationTargetException
 IllegalAccessException
+
+unchecked
+ ConcurrentModificationException - gdy tworzymy iterator na liście a potem zmieniamy kolekcję. 
+It is not generally permissible for one thread to modify a Collection while another thread is iterating over it. Iterators that do this are known as fail-fast iterators, as they fail quickly and cleanly, rather that risking arbitrary, non-deterministic behavior at an undetermined time in the future.
+
+
+Errorsw
+OutOfMemoryError
