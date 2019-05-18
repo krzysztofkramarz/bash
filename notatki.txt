@@ -136,3 +136,6 @@ Gdy robię SELECT * FROM ... WHERE x IN (...), to IN tworzy nową tabelę z jedn
 
  <Piątek - Końtyg> 10 May 05:59:01 PM
 Pgexcercises - zdalnie
+
+ <> 11 May 05:59:01 PM
+PgExcercises
