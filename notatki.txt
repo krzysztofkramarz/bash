@@ -166,3 +166,5 @@ Na razie to niewiele, bo wyrzucili mnie z zespołu.
 
  <Środa> 22 maja 14:59:01
 FailFast, FailSafe. BlockingQueue - metody add, offer, remove - rzucaja wyjatek' offer, peak, poll - boleana; put i take - blokują.  Rodzaje GC (Serial, Parrarel, CMS, G1
+
+ <Środa> 22 maja 16:41:07
