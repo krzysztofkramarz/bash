@@ -4,9 +4,14 @@ InvocationTargetException
 IllegalAccessException
 
 unchecked
- ConcurrentModificationException - gdy tworzymy iterator na liście a potem zmieniamy kolekcję. 
-It is not generally permissible for one thread to modify a Collection while another thread is iterating over it. Iterators that do this are known as fail-fast iterators, as they fail quickly and cleanly, rather that risking arbitrary, non-deterministic behavior at an undetermined time in the future.
+ ConcurrentModificationException - gdy tworzymy iterator na liście a potem zmieniamy kolekcję. Kolekcja ma modCount - licznik, który inkrementuje się, gdy jest operacja zmnieniająca zawartość kolekcji.
+Jeśli iterator wywołuje metode next(), to najpierw sprawdza, czy licznik poczatkowy jet równy licznikowi obecnemu. Jeśli nie jest równy, to wyrzuca ten wyjatek.
+It is not generally permissible for one thread to modify a Collection while another thread is iterating over it. Iterators that do this are known as fail-fast iterators, as they fail quickly and cleanly, rather that risking arbitrary, non-deterministic behavior at an undetermined time in the future. Chyba że wykorzystamy metodę remove() iteratora
 
+
+IllegalStateException - np. gdy dodajemy element do kolejki a jest pełna
+
+NoSuchElementException - np gdy pobieramy z kolejki blokującej, a jest pusta
 
 Errorsw
 OutOfMemoryError

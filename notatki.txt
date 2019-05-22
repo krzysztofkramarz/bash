@@ -157,4 +157,12 @@ git shortlog -sn - statystyki komitów
 
  <> 19 May 02:59:01 PM
 
- <> 19 May 05:59:01 PM
+
+ <Poniedziałek> 20 maja 14:59:01
+Na razie to niewiele, bo wyrzucili mnie z zespołu.
+
+ <Poniedziałek> 20 maja 16:21:54
+ mvn spring-boot:run startowanie Springa z  mavena
+
+ <Środa> 22 maja 14:59:01
+FailFast, FailSafe. BlockingQueue - metody add, offer, remove - rzucaja wyjatek' offer, peak, poll - boleana; put i take - blokują.  Rodzaje GC (Serial, Parrarel, CMS, G1
