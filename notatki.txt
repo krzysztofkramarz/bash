@@ -162,3 +162,6 @@ Na razie to niewiele, bo wyrzucili mnie z zespołu.
 FailFast, FailSafe. BlockingQueue - metody add, offer, remove - rzucaja wyjatek' offer, peak, poll - boleana; put i take - blokują.  Rodzaje GC (Serial, Parrarel, CMS, G1
 
  <Środa> 22 maja 16:41:07
+
+ <> 25 May 02:29:37 PM
+   <packaging>jar</packaging> - startujemy projekt - widzi properties. Jesli damy    <packaging>pom</packaging>, to nie zobaczy properties, które by byłoy na poziomie tego projektu (pewnie jak byłby projekt dziecko i tam bedzie log4j2.properties, to go zobaczy)
