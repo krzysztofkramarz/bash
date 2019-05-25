@@ -158,3 +158,5 @@ git shortlog -sn - statystyki komitów
  <> 19 May 02:59:01 PM
 
  <> 19 May 05:59:01 PM
+
+ <Poniedziałek> 20 May 06:09:01 PM
