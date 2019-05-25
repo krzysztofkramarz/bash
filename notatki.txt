@@ -153,10 +153,12 @@ $.ajax() - metoda jQuery. Adnotacje @RequestParam(application/x-www-form-urlenco
  <Piątek - Końtyg> 17 maja 11:42:19
 git shortlog -sn - statystyki komitów
 
-
-
- <> 19 May 02:59:01 PM
-
- <> 19 May 05:59:01 PM
-
  <Poniedziałek> 20 May 06:09:01 PM
+Na razie to niewiele, bo wyrzucili mnie z zespołu.
+
+ mvn spring-boot:run startowanie Springa z  mavena
+
+ <Środa> 22 maja 14:59:01
+FailFast, FailSafe. BlockingQueue - metody add, offer, remove - rzucaja wyjatek' offer, peak, poll - boleana; put i take - blokują.  Rodzaje GC (Serial, Parrarel, CMS, G1
+
+ <Środa> 22 maja 16:41:07

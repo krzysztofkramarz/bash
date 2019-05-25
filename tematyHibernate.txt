@@ -1,0 +1,19 @@
+Tematy Hibernate:
+1) jak podłączyć Hibernate do bazy
+2) jak odrobaczać, logować i podglądac kwerendy, idace do bazy
+3) podstawowe adnotacje. Jak działają, na co się je nakłada. Zwrócic uwagę na @Enum - ma dwa tryby działania. a - czy zapisuje ordinal czy nazwę obiektu? b - Możemy tez zapisać enuma jako String - ale wtedy co bedzie, jak po zapisaniu zmienimy nazwę 
+4) Daty i czasy. Hiber, SQL, Java - każde ma inne 
+5) Dziedziczenie. Strategie dziedziczenia
+6) Identyfikatory, sekwencje, klucze główne
+7) schemat bazy a Hiber - Kiedy i czy Hiber usuwa, tworzy, zmienia schemat
+8) Cykl zycia encji - jest okno, w którym aktualizacje obiektu idą do bazy. 
+9) EntityManager i SessionFactory - kluczowe obiekty
+10) pamięci podręczne - 1 i 2 poziomu. Jak wplywają na wydajnośc(?)
+11) Relacje 1-n, n-n, utd. Jak te relacje przekładają się na relacje bazodanowe
+12) Budowa kwerend. @Query, @NativeQuery, HQL, CriteriaAPI, SQL - 5 sposóbów
+13) XML vs adnotacje - konfiguracja
+14) leniwe ładowanie vs gorliwe. Ważna role odgrywają tu refleksja i proxy. Jak będzie przy Embeddable? Jak będzie przy relacjach i EAGER/LAZY.
+Gdy LAZY - w referencję do innego obiektu proxy. Ale jesli okienko dostepu się zamknie to zawołanie proxy da wyjątek
+15) podstawowe łędy, problem n + 1 zapytań, najczęstsze wyjątki
+16) Kolekcje własne Hibera
+17) Czy Hiber jest wydajny. może tak, a może nie, a może użyć  @Query, a może wyłączyć cache 1 lub 2 poziomu
