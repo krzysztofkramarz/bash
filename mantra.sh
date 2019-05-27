@@ -24,7 +24,7 @@ cd $PROJEKT
 touch pom.xml
 mkdir -p src/{main,test}/java/com/fonowizja/$PROJEKT
 # stary pom curl -o pom.xml https://gist.githubusercontent.com/krzysztofkramarz/33c88f9d47f16dd91ccc0a0a22b09ca0/raw/7c7663f1022fbac539e19e92951d641fea0abb60/pom.xml
-curl -o pom.xml https://gist.githubusercontent.com/krzysztofkramarz/e2947d0d74bfce04f51fad4d8aefaf4d/raw/cebb92b0341361dabdf571443bb29483b66f423e/pom2.xml
+curl -o pom.xml https://gist.githubusercontent.com/krzysztofkramarz/e2947d0d74bfce04f51fad4d8aefaf4d/raw/2076084bd9d1db486a76bdd40111b377f08f40f5/pom2.xml
 
 
 sed -ie "s/<groupId>grupa_do_zmiany<\/groupId>/<groupId>com.fonowizja.<\/groupId>/g" pom.xml
