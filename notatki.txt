@@ -153,15 +153,9 @@ $.ajax() - metoda jQuery. Adnotacje @RequestParam(application/x-www-form-urlenco
  <Piątek - Końtyg> 17 maja 11:42:19
 git shortlog -sn - statystyki komitów
 
-
-
- <> 19 May 02:59:01 PM
-
-
- <Poniedziałek> 20 maja 14:59:01
+ <Poniedziałek> 20 May 06:09:01 PM
 Na razie to niewiele, bo wyrzucili mnie z zespołu.
 
- <Poniedziałek> 20 maja 16:21:54
  mvn spring-boot:run startowanie Springa z  mavena
 
  <Środa> 22 maja 14:59:01
@@ -175,5 +169,9 @@ Warsztaty z lomboka
  <Piątek - Końtyg> 24 maja 14:59:01
 Lombok
 
+ <> 25 May 02:29:37 PM
+   <packaging>jar</packaging> - startujemy projekt - widzi properties. Jesli damy    <packaging>pom</packaging>, to nie zobaczy properties, które by byłoy na poziomie tego projektu (pewnie jak byłby projekt dziecko i tam bedzie log4j2.properties, to go zobaczy)
+
  <Poniedziałek> 27 maja 14:59:01
 Session vs EntityMenager. Warsztaty Krzyśka z uruchamiania Hibernata. Zrobiona prezentacjz HotKey. podsumownaie statków - js jest trudnym językiem, wykład o konfliktach. 
+
