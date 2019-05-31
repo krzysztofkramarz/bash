@@ -178,3 +178,9 @@ Session vs EntityMenager. Warsztaty Krzyśka z uruchamiania Hibernata. Zrobiona 
 
  <Środa> 29 maja 14:59:01
 warsztaty z clean kodu - w klasie piszemy new Throable().getstackTrace[0].getClass to dostaniemy nasza klasę
+
+ <Czwartek> 30 maja 14:59:01
+maszyna stanów - automat biletowy
+
+ <Piątek - Końtyg> 31 maja 14:59:01
+prezentacja z Hibera

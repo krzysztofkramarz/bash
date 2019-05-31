@@ -24,6 +24,7 @@
       <version.maven>3.5.3</version.maven>
 
       <!--Dependencies for external libraries-->
+      <version.hibernate.core>5.4.2.Final</version.hibernate.core>
       <version.lombok>1.18.6</version.lombok>
 
       <!--### PLUGINS ###-->
@@ -37,6 +38,14 @@
    </properties>
 
    <dependencies>
+
+   <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->		
+      <dependency>		
+         <groupId>org.hibernate</groupId>		
+         <artifactId>hibernate-core</artifactId>		
+         <version>${version.hibernate.core}</version>		
+      </dependency>
+
       <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
       <dependency>
          <groupId>org.projectlombok</groupId>
