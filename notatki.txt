@@ -165,3 +165,18 @@ FailFast, FailSafe. BlockingQueue - metody add, offer, remove - rzucaja wyjatek'
 
  <> 25 May 02:29:37 PM
    <packaging>jar</packaging> - startujemy projekt - widzi properties. Jesli damy    <packaging>pom</packaging>, to nie zobaczy properties, które by byłoy na poziomie tego projektu (pewnie jak byłby projekt dziecko i tam bedzie log4j2.properties, to go zobaczy)
+
+ <> 25 May 02:59:01 PM
+
+ <> 25 May 05:59:01 PM
+
+ <> 26 May 02:59:01 PM
+
+ <> 26 May 03:01:05 PM
+warsztaty lombok, bean validation
+
+ <> 26 May 05:59:01 PM
+
+ <Poniedziałek> 27 May 02:59:01 PM
+
+ <Poniedziałek> 27 May 05:59:01 PM
