@@ -163,20 +163,28 @@ FailFast, FailSafe. BlockingQueue - metody add, offer, remove - rzucaja wyjatek'
 
  <Środa> 22 maja 16:41:07
 
+ <Czwartek> 23 maja 14:59:01
+Warsztaty z lomboka
+
+ <Piątek - Końtyg> 24 maja 14:59:01
+Lombok
+
  <> 25 May 02:29:37 PM
    <packaging>jar</packaging> - startujemy projekt - widzi properties. Jesli damy    <packaging>pom</packaging>, to nie zobaczy properties, które by byłoy na poziomie tego projektu (pewnie jak byłby projekt dziecko i tam bedzie log4j2.properties, to go zobaczy)
 
- <> 25 May 02:59:01 PM
-
- <> 25 May 05:59:01 PM
-
- <> 26 May 02:59:01 PM
 
  <> 26 May 03:01:05 PM
 warsztaty lombok, bean validation
 
- <> 26 May 05:59:01 PM
 
- <Poniedziałek> 27 May 02:59:01 PM
+ <Poniedziałek> 27 maja 14:59:01
+Session vs EntityMenager. Warsztaty Krzyśka z uruchamiania Hibernata. Zrobiona prezentacjz HotKey. podsumownaie statków - js jest trudnym językiem, wykład o konfliktach. 
 
- <Poniedziałek> 27 May 05:59:01 PM
+ <Środa> 29 maja 14:59:01
+warsztaty z clean kodu - w klasie piszemy new Throable().getstackTrace[0].getClass to dostaniemy nasza klasę
+
+ <Czwartek> 30 maja 14:59:01
+maszyna stanów - automat biletowy
+
+ <Piątek - Końtyg> 31 maja 14:59:01
+prezentacja z Hibera
