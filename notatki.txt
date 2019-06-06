@@ -188,3 +188,14 @@ maszyna stanów - automat biletowy
 
  <Piątek - Końtyg> 31 maja 14:59:01
 prezentacja z Hibera
+
+ <> 02 June 05:59:01 PM
+
+ <Wtorek> 04 June 02:59:01 PM
+
+ <Wtorek> 04 June 05:59:01 PM
+
+ <Środa> 05 June 02:59:01 PM
+
+ <Środa> 05 June 05:59:01 PM
+super robota - refaktor hibernate projekt - abstrakcje i implementacja dla EntityManagerConnector
