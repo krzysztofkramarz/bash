@@ -199,3 +199,10 @@ prezentacja z Hibera
 
  <Środa> 05 June 05:59:01 PM
 super robota - refaktor hibernate projekt - abstrakcje i implementacja dla EntityManagerConnector
+
+ <Czwartek> 06 June 02:59:01 PM
+Recenzje x 2, Lynda recenzja, spotkanie RoboCop
+
+ <Piątek - Końtyg> 07 June 02:59:01 PM
+Nic - L4
+
