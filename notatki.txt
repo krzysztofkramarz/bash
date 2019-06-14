@@ -184,3 +184,22 @@ maszyna stanów - automat biletowy
 
  <Piątek - Końtyg> 31 maja 14:59:01
 prezentacja z Hibera
+
+ <Poniedziałek> 03 czerwca 14:59:01
+
+ <Wtorek> 04 czerwca 14:59:01
+
+ <Poniedziałek> 10 czerwca 14:59:01
+@GeneratedValue(strategy = GenerationType.TABLE, generator = "tabela_generator_wartosci")
+    @TableGenerator(name = "tabela_generator_wartosci", initialValue = 50, allocationSize = 100, pkColumnValue = "id_tabela_autor", pkColumnName = "tabele", valueColumnName = "wartosc_id")
+
+ <Wtorek> 11 czerwca 14:59:01
+wykład o wzrocach, git revert, tożsamośc bazodanowa
+
+ <Środa> 12 czerwca 14:59:01
+opracowywanie warsztatów z hibera, wykłady o springu - adnotacje dają mniej niz xml
+
+ <Czwartek> 13 czerwca 14:59:01
+Wykład z jita, architekta
+
+ <Piątek - Końtyg> 14 czerwca 14:59:01
