@@ -172,9 +172,13 @@ Lombok
  <> 25 May 02:29:37 PM
    <packaging>jar</packaging> - startujemy projekt - widzi properties. Jesli damy    <packaging>pom</packaging>, to nie zobaczy properties, które by byłoy na poziomie tego projektu (pewnie jak byłby projekt dziecko i tam bedzie log4j2.properties, to go zobaczy)
 
+
+ <> 26 May 03:01:05 PM
+warsztaty lombok, bean validation
+
+
  <Poniedziałek> 27 maja 14:59:01
 Session vs EntityMenager. Warsztaty Krzyśka z uruchamiania Hibernata. Zrobiona prezentacjz HotKey. podsumownaie statków - js jest trudnym językiem, wykład o konfliktach. 
-
 
  <Środa> 29 maja 14:59:01
 warsztaty z clean kodu - w klasie piszemy new Throable().getstackTrace[0].getClass to dostaniemy nasza klasę
@@ -203,3 +207,25 @@ opracowywanie warsztatów z hibera, wykłady o springu - adnotacje dają mniej n
 Wykład z jita, architekta
 
  <Piątek - Końtyg> 14 czerwca 14:59:01
+
+ <Środa> 05 June 05:59:01 PM
+super robota - refaktor hibernate projekt - abstrakcje i implementacja dla EntityManagerConnector
+
+ <Czwartek> 06 June 02:59:01 PM
+Recenzje x 2, Lynda recenzja, spotkanie RoboCop
+
+ <Piątek - Końtyg> 07 June 02:59:01 PM
+Nic - L4
+
+
+ <Poniedziałek> 10 June 05:59:01 PM
+
+ <Wtorek> 11 June 02:59:01 PM
+
+ <Środa> 12 June 05:59:01 PM
+
+ <Czwartek> 13 June 05:59:01 PM
+wyklady, repo hibera
+
+ <Piątek - Końtyg> 14 czerwca 21:17:34
+wyklad od 14 do 19 :)
