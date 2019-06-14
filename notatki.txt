@@ -189,13 +189,24 @@ maszyna stanów - automat biletowy
  <Piątek - Końtyg> 31 maja 14:59:01
 prezentacja z Hibera
 
- <> 02 June 05:59:01 PM
+ <Poniedziałek> 03 czerwca 14:59:01
 
- <Wtorek> 04 June 02:59:01 PM
+ <Wtorek> 04 czerwca 14:59:01
 
- <Wtorek> 04 June 05:59:01 PM
+ <Poniedziałek> 10 czerwca 14:59:01
+@GeneratedValue(strategy = GenerationType.TABLE, generator = "tabela_generator_wartosci")
+    @TableGenerator(name = "tabela_generator_wartosci", initialValue = 50, allocationSize = 100, pkColumnValue = "id_tabela_autor", pkColumnName = "tabele", valueColumnName = "wartosc_id")
 
- <Środa> 05 June 02:59:01 PM
+ <Wtorek> 11 czerwca 14:59:01
+wykład o wzrocach, git revert, tożsamośc bazodanowa
+
+ <Środa> 12 czerwca 14:59:01
+opracowywanie warsztatów z hibera, wykłady o springu - adnotacje dają mniej niz xml
+
+ <Czwartek> 13 czerwca 14:59:01
+Wykład z jita, architekta
+
+ <Piątek - Końtyg> 14 czerwca 14:59:01
 
  <Środa> 05 June 05:59:01 PM
 super robota - refaktor hibernate projekt - abstrakcje i implementacja dla EntityManagerConnector
@@ -206,4 +217,14 @@ Recenzje x 2, Lynda recenzja, spotkanie RoboCop
  <Piątek - Końtyg> 07 June 02:59:01 PM
 Nic - L4
 
+ <Poniedziałek> 10 June 05:59:01 PM
 
+ <Wtorek> 11 June 02:59:01 PM
+
+ <Środa> 12 June 05:59:01 PM
+
+ <Czwartek> 13 June 05:59:01 PM
+wyklady, repo hibera
+
+ <Piątek - Końtyg> 14 czerwca 21:17:34
+wyklad od 14 do 19 :)
