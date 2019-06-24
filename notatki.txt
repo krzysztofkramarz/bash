@@ -229,3 +229,17 @@ wyklady, repo hibera
 
  <Piątek - Końtyg> 14 czerwca 21:17:34
 wyklad od 14 do 19 :)
+
+ <Poniedziałek> 17 czerwca 14:59:01
+
+ <Wtorek> 18 czerwca 14:59:01
+
+ <Środa> 19 czerwca 14:59:01
+warsztat JDBC, jooq
+
+ <Czwartek> 20 czerwca 14:59:01
+
+ <Piątek - Końtyg> 21 czerwca 14:59:01
+
+ <Poniedziałek> 24 czerwca 14:59:01
+cykle życia hibernate Session oraz dziedziczenie w Hiberze
