@@ -217,7 +217,6 @@ Recenzje x 2, Lynda recenzja, spotkanie RoboCop
  <Piątek - Końtyg> 07 June 02:59:01 PM
 Nic - L4
 
-
  <Poniedziałek> 10 June 05:59:01 PM
 
  <Wtorek> 11 June 02:59:01 PM
@@ -237,9 +236,6 @@ wyklad od 14 do 19 :)
  <Środa> 19 czerwca 14:59:01
 warsztat JDBC, jooq
 
- <Czwartek> 20 czerwca 14:59:01
-
- <Piątek - Końtyg> 21 czerwca 14:59:01
-
  <Poniedziałek> 24 czerwca 14:59:01
 cykle życia hibernate Session oraz dziedziczenie w Hiberze
+
